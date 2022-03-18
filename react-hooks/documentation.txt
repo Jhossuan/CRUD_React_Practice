@@ -1,0 +1,19 @@
+
+**🧠¿Qué hicimos?**
+Se creo una aplicación CRUD de almacenamiento de usuarios en una base de datos ficticia.
+C => Create
+R => Read
+U => Update
+D => Delete
+
+**⌛Tiempo de realización:**
+👉 4hrs y 30minutos aprox.
+
+**Recurso para hacer este desarrollo de estudio:**
+👉Aquí se encuentra todo detallado y explicado.
+🌐 https://www.taniarascia.com/crud-app-in-react-with-hooks/
+
+
+Code by:
+Jhossua Campos Díaz
+👉www.github.com/Jhossuan👈
